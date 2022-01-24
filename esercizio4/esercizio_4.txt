@@ -1,0 +1,8 @@
+Utilizzare la list comprehension per creare la lista dei primi dieci cubi:
+Ex output: [0, 1, 8, 27, 64, ...]
+
+Applicare filter() alla lista per ottenere una nuova lista con solo numeri pari.
+Ex output: [0, 8, 64, ...]
+
+Applicare map() sulla lista per ottenere una nuova lista che contenga gli elementi della precedente moltiplicati per 3.
+Ex output: [0, 24, 192, ...]
